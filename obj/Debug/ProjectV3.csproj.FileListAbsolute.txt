@@ -1,0 +1,8 @@
+C:\Users\shlom\source\repos\ProjectV3\ProjectV3\bin\Debug\ProjectV3.exe.config
+C:\Users\shlom\source\repos\ProjectV3\ProjectV3\bin\Debug\ProjectV3.exe
+C:\Users\shlom\source\repos\ProjectV3\ProjectV3\bin\Debug\ProjectV3.pdb
+C:\Users\shlom\source\repos\ProjectV3\ProjectV3\obj\Debug\ProjectV3.csproj.AssemblyReference.cache
+C:\Users\shlom\source\repos\ProjectV3\ProjectV3\obj\Debug\ProjectV3.csproj.SuggestedBindingRedirects.cache
+C:\Users\shlom\source\repos\ProjectV3\ProjectV3\obj\Debug\ProjectV3.csproj.CoreCompileInputs.cache
+C:\Users\shlom\source\repos\ProjectV3\ProjectV3\obj\Debug\ProjectV3.exe
+C:\Users\shlom\source\repos\ProjectV3\ProjectV3\obj\Debug\ProjectV3.pdb
